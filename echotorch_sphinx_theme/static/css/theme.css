@@ -9700,7 +9700,8 @@ pre {
   top: 0;
   width: 100%;
   z-index: 9999;
-  background-color: #ffffff;
+  color: white;
+  background-image: linear-gradient(120deg, #7602ec, #cb5dfe);
   border-bottom: 1px solid #e2e2e2;
 }
 @media screen and (min-width: 1100px) {
@@ -10280,7 +10281,7 @@ p {
 p a:link,
 p a:visited,
 p a:hover {
-  color: #e44c2c;
+  color: #7602ec;
   text-decoration: none;
 }
 @media screen and (min-width: 768px) {
@@ -10291,11 +10292,11 @@ p a:hover {
 p a:link,
 p a:visited,
 p a:hover {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 .wy-breadcrumbs li a {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 ul.pytorch-breadcrumbs {
@@ -10307,7 +10308,7 @@ ul.pytorch-breadcrumbs li {
   font-size: 0.875rem;
 }
 ul.pytorch-breadcrumbs a {
-  color: #ee4c2c;
+  color: #7602ec;
   text-decoration: none;
 }
 
@@ -10346,7 +10347,7 @@ ul.pytorch-breadcrumbs a {
   background-image: url("../images/logo-dark.svg");
 }
 .tutorials-header .main-menu ul li a {
-  color: #262626;
+  color: white;
 }
 .tutorials-header .main-menu-open-button {
   background-image: url("../images/icon-menu-dots-dark.svg");
@@ -11152,28 +11153,28 @@ article.pytorch-article .math img {
 a:link,
 a:visited,
 a:hover {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 ::-webkit-input-placeholder {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 ::-moz-placeholder {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 :-ms-input-placeholder {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 :-moz-placeholder {
-  color: #ee4c2c;
+  color: #7602ec;
 }
 
 @media screen and (min-width: 768px) {
   .site-footer a:hover {
-    color: #ee4c2c;
+    color: #7602ec;
   }
 }
 
